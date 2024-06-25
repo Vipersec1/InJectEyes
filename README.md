@@ -16,7 +16,7 @@
 
 加壳：InjectEyes.exe 已经加壳使用
 
-![截图](attachment:89bfd1bd2f6d9116f85599d7b43f18e5)
+![截图](89bfd1bd2f6d9116f85599d7b43f18e5.png)
 
 使用场景：打点完成后，或钓鱼捆绑马使用。此工具可以**捆绑 工具   木马【x64对应x64RAW】、【x86对应x86RAW】**。
 
