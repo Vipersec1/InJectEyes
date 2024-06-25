@@ -36,7 +36,7 @@ pe2shc.exe fsan.exe  payload.bin
 
 将payload.bin和Encrypt.exe放置同目录
 
-![截图](attachment:d54e326386f3f2972f4618432a7c687e)
+![截图](d54e326386f3f2972f4618432a7c687e.png)
 
 ### 步骤二 混淆
 
@@ -56,11 +56,11 @@ Encrypt.exe
 InJectEyes.exe
 ```
 
-![截图](attachment:b4287e6a0d075829dc7eb63c0bf82e3b)
+![截图](b4287e6a0d075829dc7eb63c0bf82e3b.png)
 
 <br/>
 
-![截图](attachment:5c34750d0503a48526af918ba4a7118b)
+![截图](5c34750d0503a48526af918ba4a7118b.png)
 
 ### 三、AV
 
@@ -68,13 +68,13 @@ InJectEyes.exe
 
 <br/>
 
-![截图](attachment:49653c5c9ff4afd2efbc233a05cdb9e6)
+![截图](49653c5c9ff4afd2efbc233a05cdb9e6.png)
 
 <br/>
 
 ### 360QVM
 
-![截图](attachment:72c0801e0ca6f60cde42e822fa45377a)
+![截图](72c0801e0ca6f60cde42e822fa45377a.png)
 
 <br/>
 
@@ -82,7 +82,7 @@ InJectEyes.exe
 
 ### Defender
 
-![截图](attachment:a3f46451174087b4dbd69446f2b0cb7e)
+![截图](a3f46451174087b4dbd69446f2b0cb7e.png)
 
 ## 作者留言
 
@@ -94,4 +94,4 @@ InJectEyes.exe
 
 **关注公众号**：
 
-![c07f0e07eac3de1d7904b7e6ae67739.jpg](attachment:b8313a01b649bc2a34786d915bde92f0)
+![c07f0e07eac3de1d7904b7e6ae67739.jpg](b8313a01b649bc2a34786d915bde92f0.jpg)
