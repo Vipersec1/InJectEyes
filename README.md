@@ -25,10 +25,10 @@
 <br/>
 
 ## 使用方法
+### 加载成型exe工具[如Fscan、mimikatz.....]：
 
-### 步骤一：
+#### 步骤一：
 
-加载成型exe工具：
 
 ```
 pe2shc.exe fsan.exe  payload.bin
@@ -38,7 +38,7 @@ pe2shc.exe fsan.exe  payload.bin
 
 ![截图](d54e326386f3f2972f4618432a7c687e.png)
 
-### 步骤二 混淆
+#### 步骤二 混淆
 
 Encrypt.exe 此程序仅用于混淆生成system.log文件，可能存在报毒(c++你懂的) 添加白名单or虚拟机断网使用都可以。
 
@@ -48,7 +48,7 @@ Encrypt.exe
 
 生成  system.log
 
-### 步骤三 运行
+#### 步骤三 运行
 
 将 InJectEyes.exe 和 system.log放置同目录，在cmd下运行
 
@@ -61,6 +61,30 @@ InJectEyes.exe
 <br/>
 
 ![截图](5c34750d0503a48526af918ba4a7118b.png)
+
+### 加载Shellcode【如：CobaltStrike生成的RAW】
+
+将生成的shellcode文件重命名为payload.bin
+#### 步骤一 混淆
+
+Encrypt.exe 此程序仅用于混淆生成system.log文件，可能存在报毒(c++你懂的) 添加白名单or虚拟机断网使用都可以。
+
+```
+Encrypt.exe
+```
+
+生成  system.log
+#### 步骤二 运行
+
+将 InJectEyes.exe 和 system.log放置同目录，在cmd下运行
+
+```
+InJectEyes.exe
+```
+![截图](5c34750d0503a48526af918ba4a7118b.png)
+
+
+
 
 ### 三、AV
 
