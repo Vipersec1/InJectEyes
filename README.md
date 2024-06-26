@@ -28,7 +28,7 @@
 ### 加载成型exe工具[如Fscan、mimikatz.....]：
 
 #### 步骤一：
-
+将工具转化为shellcode
 
 ```
 pe2shc.exe fsan.exe  payload.bin
